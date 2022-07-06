@@ -3,7 +3,7 @@
 
 - 🔭 Domino lenguaje de programacion en **Python**
 
-- 🌱 Actualmente estoy en el segundo año 
+- 🌱 Actualmente estoy en el segundo año  en el cual estoy desarrollando los temas que paracen en este portafolio 
 
 
 
